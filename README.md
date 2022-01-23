@@ -1,4 +1,6 @@
-# Capstone Project 2 - Image classification model - AWS SageMaker
+# The project 6 in course Udacity Machine Learning Nano Degree
+
+## Capstone Project 2 - Image classification model - AWS SageMaker
 
 This project implements Pytorch image classification model on AWS Sagemaker.
 
