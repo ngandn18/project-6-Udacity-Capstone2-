@@ -87,7 +87,8 @@ def predict_fn(input_object, model):
     ])
     logger.info("transforming input")
     input_object=test_transform(input_object)
-    # One new line for this densemodel
+    # resnet model doesn't need this adjustment
+    # One new line for this densenet model - predictor wants torch [1,3,...] 
     input_object = input_object[:3,:,:]
     input_object = input_object.to(device)
     with torch.no_grad():
