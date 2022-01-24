@@ -27,10 +27,10 @@ Because the tuning and training time too long, the connections from Aws studio g
 - ***deploy_test.ipynb***: deploy the endpoint and test all the test image on this endpoint.
 - ***inference.py***: entry point for deploe the endpoint.
 
-### 2. Folder csv - csv.zip
+### 2. csv file - prediction.csv
 
-- All the csv files contain related data and info are used for this project.
-- This folder is zipped into one file csv.zip for fast upload.
+- All the csv files contain related data and info are used for this project are too large, cannot upload into github.
+- There is only one file prediction.csv to review.
 
 ### 3. Folder images
 
