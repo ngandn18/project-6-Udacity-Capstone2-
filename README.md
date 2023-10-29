@@ -4,7 +4,7 @@
 
 This project implements Pytorch image classification model on AWS Sagemaker.
 
-Data is used is [cifar-10](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz).
+Data is from [cifar-10](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz).
 
 All the main ideas are witten in file ***proposal.pdf*** and ***report.pdf***.
 
