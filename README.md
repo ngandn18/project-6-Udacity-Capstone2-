@@ -42,6 +42,6 @@ Because the tuning and training time too long, the connections from Aws studio g
 
 ### 6. Files ***data_process.html***, ***tuning_training.html***, and ***deploy_test.html*** for easy review
 
-[Here is my blogpost](https://ngandn18.github.io/project/proj_6.html)
+[Here is my blogpost](https://ngandn18.github.io/up6/)
 
 ### Thank you for all your helpful and valuable supports
